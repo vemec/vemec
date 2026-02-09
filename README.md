@@ -8,7 +8,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
-- 🦞 **[ActivityCraft](https://www.activity-craft.com/)** - Automate your Strava Activities with AI Rules (Private)
+- ⚙️ **[ActivityCraft](https://www.activity-craft.com/)** - Automate your Strava Activities with AI Rules (Private)
 
 ## GitHub Activity
 
