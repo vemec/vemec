@@ -9,6 +9,7 @@
 
 ## Current Projects
 - ⚙️ **[ActivityCraft](https://www.activity-craft.com/)** - Automate your Strava Activities with AI Rules (Private)
+- 🚴 **[BikeFit AI](https://peloton-fit.vercel.app/)** - AI-powered biomechanical analysis for cyclists and triathletes ([GitHub](https://github.com/vemec/peloton-fit))
 
 ## GitHub Activity
 
