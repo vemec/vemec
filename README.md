@@ -14,4 +14,4 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/vemec)
+![GitHub Activity Chart](https://gh-activity-chart.vercel.app/api/chart/vemec?format=svg&theme=github&bg=false&grid=true&months=false&days=false&footer=false&margin=0&radius=0&gap=0&bg=false)
