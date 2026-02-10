@@ -10,6 +10,7 @@
 ## Current Projects
 - ⚙️ **[ActivityCraft](https://www.activity-craft.com/)** - Automate your Strava Activities with AI Rules (Private)
 - 🚴 **[BikeFit AI](https://peloton-fit.vercel.app/)** - AI-powered biomechanical analysis for cyclists and triathletes ([GitHub](https://github.com/vemec/peloton-fit))
+- 🔮 **[Protoss Voice Effect Generator](https://github.com/vemec/protoss-voice)** - Apply psionic audio effects to voice recordings mimicking StarCraft Protoss voice style
 
 ## GitHub Activity
 
