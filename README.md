@@ -14,4 +14,4 @@
 
 ## GitHub Activity
 
-![GitHub Activity Chart](https://gh-activity-chart.vercel.app/api/chart/vemec?format=svg&theme=github&bg=false&grid=true&months=false&days=false&scale=false&username=false&margin=0&radius=0&gap=0&size=12)
+![GitHub Activity Chart](https://gh-activity-chart.vercel.app/api/chart/vemec?format=svg&theme=classic&mode=light&bg=false&grid=false&months=false&days=false&scale=false&username=false&margin=8&radius=3&gap=3&size=15)
